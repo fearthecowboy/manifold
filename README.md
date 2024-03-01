@@ -102,6 +102,7 @@ brew install emscripten
 (on Linux):
 ```
 sudo apt install nodejs
+sudo apt install cmake 
 git clone https://github.com/emscripten-core/emsdk.git
 cd emsdk
 ./emsdk install latest
